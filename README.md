@@ -44,7 +44,7 @@ Secondary objectives:
     - Record rewards after each floor 
 
 
-## Methods
+## Data Recording
 A data ingestion UI will be built to aid in recording data to reduce errors.
+- [Link to repo](https://github.com/justinmooney/lost-ark-data-recorder)
 - After an initial data gathering phase I found that sometimes I forgot to clear rewards from inventory prior to a run or record certain rewards.
-- A data ingestion tool will provide a rigid input format for recording.
